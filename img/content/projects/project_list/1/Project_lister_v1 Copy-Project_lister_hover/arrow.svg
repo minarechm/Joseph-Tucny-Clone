@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="73px" height="43px" viewBox="0 0 73 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>645EDD95-BD5F-48D8-A705-6C7AB277565B</title>
+    <g id="Tucny_webdesign_2021" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tucny_mainpage(HD)" transform="translate(-636.000000, -2246.000000)" stroke="#82703D">
+            <g id="content" transform="translate(35.000000, 160.000000)">
+                <g id="projects" transform="translate(0.000000, 1641.000000)">
+                    <g id="project_list" transform="translate(0.000000, 300.000000)">
+                        <g id="1" transform="translate(541.000000, 0.000000)">
+                            <g id="Project_lister_v1-Copy" transform="translate(60.000000, 126.000000)">
+                                <g id="arrow" transform="translate(0.000000, 19.000000)">
+                                    <line x1="0.5" y1="21.5" x2="71.5" y2="21.5" id="Line-2" stroke-linecap="square"></line>
+                                    <polyline id="Rectangle" transform="translate(51.500000, 21.500000) rotate(45.000000) translate(-51.500000, -21.500000) " points="37 7 66 7 66 36"></polyline>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
